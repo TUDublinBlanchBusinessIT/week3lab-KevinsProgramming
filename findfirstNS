@@ -1,0 +1,13 @@
+#kevin tshiaka
+#07/02/2024
+#findfirstfourNS
+
+from perfectNumber import perfectNumber
+
+totalPFs = 0
+testNumber = 1
+while (totalPFS <= 4):
+    if (perfectNumber(testnumber)):
+        print(testNumber, "is a perfect number")
+        totalPFs = totalPFs + 1
+    testNumber = testNumber + 1
